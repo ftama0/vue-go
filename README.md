@@ -1,6 +1,6 @@
 # vue-go
 
-This template should help get you started developing with Vue 3 in Vite.
+auto router vue 3 using Unplugin Vue Router
 
 ## Recommended IDE Setup
 
@@ -9,6 +9,8 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vite.dev/config/).
+
+See [Unplugin Vue Router Reference](https://uvr.esm.is/).
 
 ## Project Setup
 
